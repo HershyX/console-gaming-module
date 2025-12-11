@@ -1,2 +1,9 @@
 # console-gaming-module
-This is a core java project where me and my team created a console gaming module which runs on JVM 
+
+A very fun gaming module which embraces console based games.
+Enjoy playing these addictive yet fun games 
+
+Open the GamingHub.java file in any IDE or console to run it.
+Runs on any JVM.
+
+
